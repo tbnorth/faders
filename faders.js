@@ -1,3 +1,6 @@
+// An extremely simple demo of the flowing points visualization.
+// public domain method demo by Terry Brown, terrynbrown@gmail.com
+
 // get canvas element and size
 var canv = document.getElementById('fade_canv');
 var width = parseFloat(canv.width);
